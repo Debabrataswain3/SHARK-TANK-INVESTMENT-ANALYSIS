@@ -12,7 +12,7 @@ This project combines **Python (for data cleaning & EDA)** and **Tableau (for da
 Cleaned dataset used for this project:
 `/mnt/data/sharktank_clean_dataset.csv`
 
-(Replace this with your GitHub raw link when you upload.)
+(https://github.com/Debabrataswain3/SHARK-TANK-INVESTMENT-ANALYSIS/blob/main/shark_tank_dataset.csv)
 
 Dataset includes fields such as:
 
