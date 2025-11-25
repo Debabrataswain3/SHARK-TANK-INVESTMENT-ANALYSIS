@@ -145,12 +145,3 @@ By combining Python for deep data preparation and Tableau for interactive visual
 This dashboard can be extended further to include **predictive modeling**, **investor recommendation systems**, and **startup scoring models**.
 
 ---
-
-If you want, I can also generate:
-
-✔ A polished **project cover image**
-✔ A **GitHub description banner**
-✔ A **PDF summary**
-✔ A **video script** explaining the dashboard
-
-Just tell me.
