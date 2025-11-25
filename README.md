@@ -96,7 +96,7 @@ Created a complete **interactive dashboard** including:
 
 ## **📈 Tableau Dashboard Link**
 
-**(Replace this after publishing)**
+**(https://github.com/Debabrataswain3/SHARK-TANK-INVESTMENT-ANALYSIS/blob/main/Screenshot%202025-11-25%20091839.png)**
 👉 *Your Tableau Public Dashboard Link Here*
 
 ---
