@@ -8,10 +8,6 @@ This project combines **Python (for data cleaning & EDA)** and **Tableau (for da
 ---
 
 ## **📂 Dataset Used**
-
-Cleaned dataset used for this project:
-`(https://github.com/Debabrataswain3/SHARK-TANK-INVESTMENT-ANALYSIS/blob/main/sharktank_clean_dataset.csv)`
-
 (https://github.com/Debabrataswain3/SHARK-TANK-INVESTMENT-ANALYSIS/blob/main/shark_tank_dataset.csv)
 
 Dataset includes fields such as:
