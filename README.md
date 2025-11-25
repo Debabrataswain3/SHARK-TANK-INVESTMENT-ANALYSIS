@@ -15,13 +15,10 @@ The goal is to understand **startup funding trends, founder behavior, investor p
 ## 📁 **Dataset Used**
 
 Dataset: *Shark Tank India – Investment Data (Cleaned)*
-📄 Dataset Link: *(Upload your dataset to GitHub and place the link here)*
+📄 Dataset Link: *(https://github.com/Debabrataswain3/SHARK-TANK-INVESTMENT-ANALYSIS/blob/main/shark_tank_dataset.csv)*
 Example format:
 
 ```
-https://github.com/YourUsername/SharkTank-Analysis/blob/main/sharktank_clean_dataset.csv
-```
-
 Your cleaned dataset file:
 `/mnt/data/sharktank_clean_dataset.csv` *(use this when uploading)*
 
