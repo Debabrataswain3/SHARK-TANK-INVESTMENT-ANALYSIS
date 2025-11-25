@@ -1,20 +1,3 @@
-Below is a **complete, polished, GitHub-ready README.md** for your project.
-
-It includes:
-✓ Project name
-✓ Objective
-✓ Dataset details + link (with your local file path)
-✓ KPIs
-✓ Analysis questions
-✓ Process (Python + Tableau)
-✓ Dashboard link (placeholder—add your Tableau Public URL)
-✓ Insights
-✓ Final conclusion
-
-It is structured exactly the way employers expect.
-
----
-
 # **SHARK TANK INVESTMENT ANALYSIS (Python + Tableau)**
 
 ## **📌 Project Objective**
